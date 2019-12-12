@@ -6,3 +6,4 @@
 5. Pugs
 6. Poodles
 7. Chihuauhua
+8. Alaskan
