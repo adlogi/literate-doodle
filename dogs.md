@@ -8,3 +8,4 @@
 7. Chihuauhua
 8. Alaskan
 9. Golden Retriever
+10. Rottweiler
